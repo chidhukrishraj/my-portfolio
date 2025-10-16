@@ -110,8 +110,8 @@ const experiences = [
     company: "Robert Bosch GmbH (via Technology & Strategy)",
     logos: ["bosch_logo.png", "ts_logo.png"],
     location: "Abstatt, Germany",
-    role: "Function Owner – Brake Systems",
-    period: "06/2015 — 05/2017",
+    role: "Function Owner – Vehicle Motion Controller (VMC)",
+    period: "06/2018 — 07/2019",
     summary:
       "Owned the system engineering workflow for Degradation State Management and Bus Signal Monitoring in the Vehicle Motion Controller for JLR",
       projectsCount: 2,
@@ -131,10 +131,10 @@ const experiences = [
     company: "Robert Bosch GmbH (via Technology & Strategy)",
     logos: ["bosch_logo.png", "ts_logo.png"],
     location: "Abstatt, Germany",
-    role: "Software/Systems Engineer – Brake Systems",
-    period: "03/2013 — 05/2015",
+    role: "Function Owner – Brake Systems",
+    period: "09/2015 — 05/2018",
     summary:
-      "Developed C/C++ brake functions, created & executed tests (module/HIL/vehicle), and collaborated with system & HW teams.",
+      "Developed C/C++ based brake functions, created & executed tests (module/HIL/vehicle), and collaborated with system & HW teams.",
     projectsCount: 3,
     responsibilities: [
       "Function development in C/C++ for safety-critical braking",
